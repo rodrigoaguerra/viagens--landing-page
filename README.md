@@ -10,9 +10,9 @@ Inicialmente, quando queremos colocar um website no ar para realizar alguma vend
 
 Os requisitos mínimos para avaliar a sua página seriam:
 
-Deve ter um banner dentro do <main>;
-Deve existir uma navegação mínima <nav>;
-Deve existir navegação das seções criadas direcionadas ao topo! Ou seja, de volta ao "Home" ou ao seu <nav>;
+- Deve ter um banner dentro do `<main>`;
+- Deve existir uma navegação mínima `<nav>`;
+- Deve existir navegação das seções criadas direcionadas ao topo! Ou seja, de volta ao "Home" ou ao seu `<nav>`;
 
 ### Resolução
 Primeiramente foi criado o menu da página com os links de navegação.
@@ -29,7 +29,7 @@ Primeiramente foi criado o menu da página com os links de navegação.
 </header>
 ```
 
-Em seguida, foi criada a seção para definir o banner, conforme foi especificado nos requisitos do projeto dentro das tag <main>.
+Em seguida, foi criada a seção para definir o banner, conforme foi especificado nos requisitos do projeto dentro das tag `<main>`.
 ```html
 <section id="banner">
   <h1>Explore Lugares Incríveis!</h1>
