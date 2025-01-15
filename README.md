@@ -61,6 +61,6 @@ Após a criação do conteúdo da página, foi criado o rodapé da landing page 
 </footer>
 ```
 
-### execução do código
+### Execução do código
 
 faça o download do repositorio em sua máquina acesse o diretorio **'viagens--landing-page'** e execute o arquivo **'index.html'** com seu navegador de preferência.
